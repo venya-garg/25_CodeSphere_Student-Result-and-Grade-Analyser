@@ -1,7 +1,7 @@
 Batch: 25
 
-**Member 1:** Venya  
-**Member 2:** Kirti
+**Member 1:** Venya Garg
+**Member 2:** Kirti Kumar
 
 ### Objectives and Features:
 - Accept marks for five subjects for multiple students.
