@@ -119,6 +119,7 @@ Enter your choice: 3
 
 Topper: Venya
 Topper percentage: 85.00%
+
 Class average: 80.00%
 
 ===== MENU =====
