@@ -1,15 +1,15 @@
 Batch: 25
 
-Member 1: Venya Garg
-Member 2: Kirti Kumar
+**Member 1:** Venya  
+**Member 2:** Kirti
 
-Objectives and Features:
+### Objectives and Features:
 - Accept marks for five subjects for multiple students.
 - Calculate total marks, percentage, and grade.
 - Identify pass/fail status using a specified minimum mark in each subject.
 - Display the class topper and class average.
 
-C Programming Concepts Used:
+### C Programming Concepts Used:
 
 1. Variables and Data Types
 2. Structures
@@ -24,7 +24,7 @@ C Programming Concepts Used:
 11. Input Validation
 12. Nested Loops
 
-Grading Criteria:
+### Grading Criteria:
 
 - 90–100%: A+
 - 80–89%: A
@@ -34,13 +34,13 @@ Grading Criteria:
 - 40–49%: D
 - Below 40%: F
 
-Instructions to Compile and Execute the Program:
+### Instructions to Compile and Execute the Program:
 
 1. Save the C source code.
 2. Open the file in a C compiler/IDE such as VS Code, Code::Blocks, Dev-C++, or GCC.
 3. Compile the program to check for errors.
-4. If using GCC, compile using: gcc student_grade_analyzer.c -o student_grade_analyzer
-5. Run the compiled program: ./student_grade_analyzer
+4. If using GCC, compile using: `gcc student_grade_analyzer.c -o student_grade_analyzer`
+5. Run the compiled program: `./student_grade_analyzer`
 6. Enter the number of students when prompted.
 7. Use the menu options to:
    - Enter student details and marks
@@ -48,12 +48,13 @@ Instructions to Compile and Execute the Program:
    - Display the class report
    - Exit the program
 
-Expected Output:
+### Expected Output:
 
 Student-wise result summary and class performance report including the name of topper along with their percentage.
 
-Sample Output:
+### Sample Output:
 
+```text
 ===== STUDENT RESULT AND GRADE ANALYZER =====
 
 Enter number of students (1-10): 2
@@ -118,9 +119,7 @@ Enter your choice: 3
 ===== CLASS REPORT =====
 
 Topper: Venya
-
 Topper percentage: 85.00%
-
 Class average: 80.00%
 
 ===== MENU =====
@@ -133,4 +132,5 @@ Class average: 80.00%
 Enter your choice: 4
 
 Exiting program..
+```
 
